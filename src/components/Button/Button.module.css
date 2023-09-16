@@ -1,0 +1,12 @@
+.main{
+    height: 40px;
+    width: 200px;
+     background: var(--Blue, #07F);
+     color: white;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+     border-radius: 20px;
+     outline: none;
+     border: none;
+}
